@@ -1,1 +1,8 @@
 /* styles go here */
+.verticalMargin {
+  margin: 10px auto;
+}
+
+.veritalMgGroup {
+  margin: 20px auto;
+}
