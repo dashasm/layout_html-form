@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,gBACE,gBACF,CAEA,aACE,gBACF","file":"style.7c908344.css","sourceRoot":"..\\src","sourcesContent":["/* styles go here */\r\n.verticalMargin {\r\n  margin: 10px auto;\r\n}\r\n\r\n.fieldsGroup {\r\n  margin: 20px auto;\r\n}\r\n"]}
